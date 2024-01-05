@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 kalwabed/elianiva.my.id is built on the following main stack:
+
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Babel](http://babeljs.io/) – JavaScript Compilers
@@ -11,11 +12,13 @@ kalwabed/elianiva.my.id is built on the following main stack:
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 kalwabed/elianiva.my.id is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
@@ -25,14 +28,15 @@ kalwabed/elianiva.my.id is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kalwabed/elianiva.my.id](https://github.com/kalwabed/elianiva.my.id)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|11/10/23 <br/>Report generated|
+|24<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -145,9 +149,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (13)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -158,6 +162,7 @@ Full tech stack [here](/techstack.md)
 |[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.12.5|02/01/21|elianiva |MIT|N/A|
 |[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v11.2.1|02/01/21|elianiva |MIT|N/A|
 |[compression](https://www.npmjs.com/compression)|v1.7.4|01/04/21|elianiva |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.10|10/26/20|elianiva |MIT|N/A|
 |[dayjs](https://www.npmjs.com/dayjs)|v1.10.4|02/01/21|elianiva |MIT|N/A|
 |[front-matter](https://www.npmjs.com/front-matter)|v4.0.2|10/13/20|elianiva |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v7.0.35|02/01/21|elianiva |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)<br/>[CVE-2021-23382](https://github.com/advisories/GHSA-566m-qj78-rww5) (Moderate)<br/>[CVE-2021-23368](https://github.com/advisories/GHSA-hwj9-h5mp-3pm3) (Moderate)|
@@ -167,4 +172,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
